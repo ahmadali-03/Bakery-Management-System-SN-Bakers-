@@ -1,0 +1,33 @@
+30
+100,Chocolate Cake,750,50
+101,Vanilla Cake,800,40
+102,Black Forest Cake,1100,4
+103,Cheesecake,1400,25
+104,Strawberry Pastry,150,60
+105,Chocolate Chip Cookies,150,200
+106,Chocolate Donuts,250,300
+107,Apple Pie,1000,100
+108,Brownie,200,50
+109,Lemon Tart,180,30
+110,Blueberry Muffin,150,80
+111,Cupcake,120,100
+112,Oreo Cake,300,40
+113,Pecan Pie,250,25
+114,Red Velvet,400,35
+115,Carrot Cake,350,20
+116,Cinnamon Roll,100,70
+117,Donut,90,150
+118,Macaron,50,200
+119,Eclair,120,60
+120,Fruit Tart,180,45
+121,Pumpkin Pie,220,30
+122,Cookie,30,250
+123,Cheese Tart,200,50
+124,Vanilla Muffin,130,80
+125,Choco Muffin,140,90
+126,Strawberry Tart,160,60
+127,Lava Cake,300,25
+128,Almond Cake,350,20
+129,Honey Bun,100,100
+130,Choco Brownie,250,40
+131,Apple Tart,180,30
